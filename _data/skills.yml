@@ -1,0 +1,12 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Python
+      - MicroPython
+
+- name: Hardware
+  keywords:
+      - RaspberryPi
+      - NodeMCU
+
+- name: Amateur Radio
+  keywords:
