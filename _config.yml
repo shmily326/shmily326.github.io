@@ -83,16 +83,11 @@ repository: shmily326/shmily326.github.io
 #      Comments    #
 # ---------------- #
 
-comments_provider: gitalk
-# https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: shmily326
-    repo: shmily326.github.io
-    clientID: 07058c97726f5339a30c
-    clientSecret: 92c31041d92e9082f048f5af2ca82156dd0ca043
+comments_provider: 
+
 
 # ---------------- #
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: 
+    analytics_id: UA-113423636-1
