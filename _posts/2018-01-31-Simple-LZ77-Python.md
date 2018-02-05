@@ -8,8 +8,7 @@ keywords: LZ77, Python, bitarray
 
 # 前言
 什么是LZ77算法呢？首先推荐大家学习以下两篇博文：[LZ77压缩算法编码原理详解(结合图片和简单代码)](http://www.cnblogs.com/junyuhuang/p/4138376.html)
-, [【数据压缩】LZ77算法原理及实现](https://www.cnblogs.com/en-heng/p/4992916.html) 。
-由于国内介绍该算法的文章比较少，因此阅读一下英文文档也大有裨益：[LZ77 Compression Algorithm](https://msdn.microsoft.com/en-us/library/ee916854.aspx) , [WiKi](https://en.wikipedia.org/wiki/LZ77_and_LZ78) 。
+, [【数据压缩】LZ77算法原理及实现](https://www.cnblogs.com/en-heng/p/4992916.html) ，也可以阅读下英文文档：[LZ77 Compression Algorithm](https://msdn.microsoft.com/en-us/library/ee916854.aspx) , [WiKi](https://en.wikipedia.org/wiki/LZ77_and_LZ78) 。
 
 本文代码参考自 GitHub 上的 [A Python Compressor](https://github.com/manassra/LZ77-Compressor/) ，
 由于原 repo 的采用的是 Python2.X 以及 0.8.1 版本的 bitarray ，其中某些方法已经做出改动，
