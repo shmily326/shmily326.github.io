@@ -2,7 +2,7 @@
 layout: post
 title: 利用 GitHub 和 GitPython 做增量图床
 categories: [python]
-description: 
+description:
 keywords: Python, GitHub, ImageBed
 ---
 
@@ -23,7 +23,7 @@ keywords: Python, GitHub, ImageBed
 
 因此，这里利用 GitPython 库来操作 Git，免去一些重复的工作。  
 
-```Python
+```python
 import pyperclip # 操作剪切板
 from git import Repo # 实际包名为 GitPython
 import os
