@@ -2,7 +2,7 @@
 layout: post
 title: 利用 GitHub 和 GitPython 做增量图床
 categories: [python]
-description: 利用 Python
+description: 
 keywords: Python, GitHub, ImageBed
 ---
 
