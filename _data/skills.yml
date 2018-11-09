@@ -9,5 +9,7 @@
       - NodeMCU
 
 - name: Amateur Radio
-      - BI8CSY
   keywords:
+      - CallSign : BI8CSY
+      - RIG : Yaesu FT-891
+      - Antenna : K8DX
