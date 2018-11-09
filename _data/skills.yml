@@ -10,6 +10,6 @@
 
 - name: Amateur Radio
   keywords:
-      - CallSign : BI8CSY
-      - RIG : Yaesu FT-891
-      - Antenna : K8DX
+      - CALLSIGN BI8CSY
+      - RIG Yaesu FT-891
+      - Antenna K8DX
